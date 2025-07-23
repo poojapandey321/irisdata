@@ -18,3 +18,6 @@ threadpoolctl==3.6.0
 tomli==2.2.1
 typing_extensions==4.14.0
 tzdata==2025.2
+fastapi
+uvicorn
+
